@@ -1,4 +1,4 @@
-# BootRAG · Spring Boot Retrieval-Augmented Generation Starter
+# SpringRAG · Spring Boot Retrieval-Augmented Generation Starter
 
 > **One-liner:** A pragmatic, production-friendly RAG starter built with Spring Boot.
 
