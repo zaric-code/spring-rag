@@ -1,8 +1,8 @@
-# SpringRAG · Spring Boot Retrieval-Augmented Generation Starter
+# XunyuRAG · Spring Boot Retrieval-Augmented Generation Starter
 
 > **One-liner:** A pragmatic, production-friendly RAG starter built with Spring Boot.
 
-> **中文简介**：BootRAG 计划打造一个开箱即用、可在生产环境落地的 **Spring Boot 版 RAG（检索增强生成）** 项目：聚焦简洁、可观测、可替换、易部署。  
+> **中文简介**：XunyuRAG 计划打造一个开箱即用、可在生产环境落地的 **Spring Boot 版 RAG（检索增强生成）** 项目：聚焦简洁、可观测、可替换、易部署。  
 > 项目刚起步，如果你也对 Java 生态下的 RAG 感兴趣，**麻烦点个 ⭐ Star 支持一下**，也欢迎提交 Issue/PR 一起完善！
 
 ---
