@@ -1,0 +1,7 @@
+xunyu:
+  rag:
+    embedding:
+      base-url: ${EMBEDDING_BASE_URL}
+      model: ${EMBEDDING_MODEL}
+      api-key: ${EMBEDDING_API_KEY}
+      batch-size: ${EMBEDDING_BATCH_SIZE}
